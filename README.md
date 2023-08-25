@@ -1,1 +1,3 @@
 # FastAPI
+Certainly! Here's a simple example of a FastAPI project for a task management API. This API allows you to create, read, update, and delete tasks. It also includes basic authentication and interactive documentation using FastAPI's built-in capabilities.
+This code sets up a basic FastAPI application for managing tasks with user authentication. You can run this code, and it will provide an interactive documentation interface where you can test the API endpoints and manage tasks. For real-world applications, you should consider using a proper database and more robust authentication mechanisms.
